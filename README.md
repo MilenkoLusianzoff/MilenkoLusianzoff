@@ -1,7 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/MilenkoLusianzoff/MilenkoLusianzoff/main/header.png)](https://github.com/MilenkoLusianzoff/MilenkoLusianzoff)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MilenkoLusianzoff&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilenkoLusianzoff&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=MilenkoLusianzoff&theme=onedark" alt="Trophy" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=MilenkoLusianzoff&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
