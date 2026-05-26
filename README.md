@@ -2,13 +2,13 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=MilenkoLusianzoff&theme=onedark" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MilenkoLusianzoff&theme=onedark&v=1" alt="Trophy" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=MilenkoLusianzoff&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MilenkoLusianzoff&show_icons=true&theme=tokyonight&v=1" alt="GitHub stats" />
   </a>
 </p>
 
