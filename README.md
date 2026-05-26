@@ -32,6 +32,12 @@
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"> <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="fusion360" width="40" height="40"/> </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilenkoLusianzoff/MilenkoLusianzoff/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilenkoLusianzoff/MilenkoLusianzoff/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MilenkoLusianzoff/MilenkoLusianzoff/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/milenko-lusianzoff/" target="_blank">
